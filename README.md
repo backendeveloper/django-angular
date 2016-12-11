@@ -12,6 +12,7 @@ Detailed documentation on [ReadTheDocs](http://django-angular.readthedocs.org/en
 Please drop me a line, if and where you use this project.
 
 
+
 ## Features
 
 * Seamless integration of Django forms with AngularJS controllers.
